@@ -1,0 +1,13 @@
+[2024=10-23 16:48:28] - Test Started: Fill_Sample_Form_TC001_OOP
+
+[2024=10-23 16:48:28] - Step 1: Navigate to Ultimateqa website
+[2024=10-23 16:48:30] - Step 2: User fill contact name field
+[2024=10-23 16:48:30] - Executing Function: setObjectValue
+[2024=10-23 16:48:30] - Completed Function: getObjectText - Text [null]
+[2024=10-23 16:48:30] - Step 3: User fill contact message field
+[2024=10-23 16:48:30] - Executing Function: setObjectValue
+[2024=10-23 16:48:30] - Completed Function: getObjectText - Text [null]
+[2024=10-23 16:48:30] - Step 4: User click submit
+[2024=10-23 16:48:30] - Started Function: clickObject
+[2024=10-23 16:48:31] - Completed Function: clickObject - Successfully clicked [(//button[@name = "et_builder_submit_button"])[1]]
+[2024=10-23 16:48:33] - Test Completed: Fill_Sample_Form_TC001_OOP
